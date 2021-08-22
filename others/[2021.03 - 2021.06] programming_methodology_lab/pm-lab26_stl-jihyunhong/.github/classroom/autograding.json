@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "TEST",
+      "setup": "make all",
+      "run": "./main",
+      "input": "",
+      "output": "SNUTotalScore : 250\r\nKoreaTotalScore : 250\r\nYonseiTotalScore : 250",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}

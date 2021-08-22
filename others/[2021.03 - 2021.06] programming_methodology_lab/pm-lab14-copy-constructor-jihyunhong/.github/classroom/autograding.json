@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "normal",
+      "setup": "",
+      "run": "cd exercise && make clean && make all && ./StudentScore",
+      "input": "1\r\nkim\r\n2\r\n16\r\n27\r\n34\r\n3\r\n4",
+      "output": "Select Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Write student's name : \r\nSelect Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Write your Scores\r\nAttendScore(0~20) = projectScore(0~40) = finalExamScore(0~40) = \r\nSelect Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Name : kim\r\nAttendScore : 16\r\nProjectScore : 27\r\nFinalExamScore : 34\r\nTotalScore : 77",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 4
+    },
+    {
+      "name": "overlap name",
+      "setup": "",
+      "run": "cd exercise && make clean && make all && ./StudentScore",
+      "input": "1\r\npark\r\n1\r\nhwang\r\n2\r\n10\r\n20\r\n30\r\n3\r\n4",
+      "output": "Select Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Write student's name : \r\nSelect Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Write student's name : \r\nSelect Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Write your Scores\r\nAttendScore(0~20) = projectScore(0~40) = finalExamScore(0~40) = \r\nSelect Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Name : hwang\r\nAttendScore : 10\r\nProjectScore : 20\r\nFinalExamScore : 30\r\nTotalScore : 60\r\n",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "invalid score",
+      "setup": "",
+      "run": "cd exercise && make clean && make all && ./StudentScore",
+      "input": "1\r\nhwang\r\n2\r\n20\r\n40\r\n40\r\n3\r\n2\r\n20\r\n40\r\n41\r\n4",
+      "output": "Select Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Write student's name : \r\nSelect Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Write your Scores\r\nAttendScore(0~20) = projectScore(0~40) = finalExamScore(0~40) = \r\nSelect Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Name : hwang\r\nAttendScore : 20\r\nProjectScore : 40\r\nFinalExamScore : 40\r\nTotalScore : 100\r\n\r\nSelect Menu.\r\n1. Student Name , 2. Write Scores , 3. Check Scores, 4. Exit: Write your Scores\r\nAttendScore(0~20) = projectScore(0~40) = finalExamScore(0~40) = Invalid scores.",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    }
+  ]
+}

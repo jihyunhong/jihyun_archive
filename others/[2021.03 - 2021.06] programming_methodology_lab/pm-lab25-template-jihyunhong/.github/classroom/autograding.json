@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "1 - main",
+      "setup": "cd exercise; make all",
+      "run": "cd exercise; ./one",
+      "input": "",
+      "output": "[\\s\\S]*[o|O]ut[\\s\\S]*[o|O]ut[\\s\\S]*[o|O]ut[\\s\\S]*65[\\s\\S]*65.1[\\s\\S]*A[\\s\\S]*65[\\s\\S]*66[\\s\\S]*67[\\s\\S]*68[\\s\\S]*69[\\s\\S]*65.1[\\s\\S]*66.1[\\s\\S]*67.1[\\s\\S]*74.1[\\s\\S]*A[\\s\\S]*C[\\s\\S]*I[\\s\\S]*J[\\s\\S]*[o|O]ut[\\s\\S]*[o|O]ut[\\s\\S]*[o|O]ut[\\s\\S]*",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "1 - test",
+      "setup": "cd exercise; g++ -o testone 1/arrayT.cpp 1/test.cpp ",
+      "run": "cd exercise; ./testone",
+      "input": "5\r\n85.9\r\n86.3\r\n88.2\r\n90.4\r\n91.1\r\n70.3",
+      "output": "[\\s\\S]*[o|O]ut[\\s\\S]*[o|O]ut[\\s\\S]*[o|O]ut[\\s\\S]*85[\\s\\S]*85.9[\\s\\S]*U[\\s\\S]*85[\\s\\S]*86[\\s\\S]*88[\\s\\S]*90[\\s\\S]*91[\\s\\S]*85.9[\\s\\S]*86.3[\\s\\S]*88.2[\\s\\S]*90.4[\\s\\S]*91.1[\\s\\S]*U[\\s\\S]*V[\\s\\S]*X[\\s\\S]*Z[\\s\\S]*[[\\s\\S]*[o|O]ut[\\s\\S]*[o|O]ut[\\s\\S]*[o|O]ut[\\s\\S]*",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "2 - main",
+      "setup": "cd exercise; make",
+      "run": "cd exercise; ./two",
+      "input": "",
+      "output": "[\\s\\S]*10[\\s\\S]*10[\\s\\S]*5.555[\\s\\S]*5.555[\\s\\S]*G[\\s\\S]*G[\\s\\S]*170[\\s\\S]*Emily[\\s\\S]*Jack",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "2 - test",
+      "setup": "cd exercise; g++ -o testtwo 2/test.cpp ",
+      "run": "cd exercise; ./testtwo",
+      "input": "64.4 67.7\r\nperson1 person2\r\n189 170",
+      "output": "[\\s\\S]*67.7[\\s\\S]*67[\\s\\S]*C[\\s\\S]*person1[\\s\\S]*",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}

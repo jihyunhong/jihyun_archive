@@ -1,0 +1,250 @@
+1/The Shawshank Redemption/9.222385751147874/Frank Darabont/Tim Robbins, Morgan Freeman
+2/Daeboo/9.149089543418532/Francis Ford Coppola/Marlon Brando, Al Pacino
+3/The Godfather: Part II/8.98120250394462/Francis Ford Coppola/Al Pacino, Robert De Niro
+4/The Dark Knight/8.97118155478286/Christopher Nolan/Christian Bale, Heath Ledger
+5/12 Angry Men/8.92687484242222/Sidney Lumet/Henry Fonda, Lee J. Cobb
+6/Schindler's List/8.904219202566676/Steven Spielberg/Liam Neeson, Ralph Fiennes
+7/The Lord of the Rings: The Return of the King/8.881514797314399/Peter Jackson/Elijah Wood, Viggo Mortensen
+8/Pulp Fiction/8.84764575570692/Quentin Tarantino/John Travolta, Uma Thurman
+9/Il buono, il brutto, il cattivo/8.798533153225994/Sergio Leone/Clint Eastwood, Eli Wallach
+10/The Lord of the Rings: The Fellowship of the Ring/8.773927057923562/Peter Jackson/Elijah Wood, Ian McKellen
+11/Fight Club/8.769448461080117/David Fincher/Brad Pitt, Edward Norton
+12/Forrest Gump/8.752330359338986/Robert Zemeckis/Tom Hanks, Robin Wright
+13/Inception/8.718278142963042/Christopher Nolan/Leonardo DiCaprio, Joseph Gordon-Levitt
+14/Star Wars: Episode V - The Empire Strikes Back/8.701181613262921/Irvin Kershner/Mark Hamill, Harrison Ford
+15/The Lord of the Rings: The Two Towers/8.697197528988/Peter Jackson/Elijah Wood, Ian McKellen
+16/The Matrix/8.64830421544163/Lana Wachowski/Keanu Reeves, Laurence Fishburne
+17/Goodfellas/8.643882903721753/Martin Scorsese/Robert De Niro, Ray Liotta
+18/One Flew Over the Cuckoo's Nest/8.640869864232883/Milos Forman/Jack Nicholson, Louise Fletcher
+19/Shichinin no samurai/8.604093586725817/Akira Kurosawa/Toshirô Mifune, Takashi Shimura
+20/Se7en/8.592314127394166/David Fincher/Morgan Freeman, Brad Pitt
+21/La vita è bella/8.582600285114097/Roberto Benigni/Roberto Benigni, Nicoletta Braschi
+22/Cidade de Deus/8.581687773406134/Fernando Meirelles/Alexandre Rodrigues, Leandro Firmino
+23/The Silence of the Lambs/8.574751824623283/Jonathan Demme/Jodie Foster, Anthony Hopkins
+24/It's a Wonderful Life/8.571997672986083/Frank Capra/James Stewart, Donna Reed
+25/Star Wars/8.55985398492852/George Lucas/Mark Hamill, Harrison Ford
+26/Saving Private Ryan/8.547570672379717/Steven Spielberg/Tom Hanks, Matt Damon
+27/Gisaengchung/8.546658108429856/Bong Joon Ho/Kang-ho Song, Sun-kyun Lee
+28/Sen to Chihiro no kamikakushi/8.542520947173154/Hayao Miyazaki/Daveigh Chase, Suzanne Pleshette
+29/The Green Mile/8.534708034242165/Frank Darabont/Tom Hanks, Michael Clarke Duncan
+30/Interstellar/8.526306609454185/Christopher Nolan/Matthew McConaughey, Anne Hathaway
+31/Léon/8.51426245535077/Luc Besson/Jean Reno, Gary Oldman
+32/The Usual Suspects/8.505749900936411/Bryan Singer/Kevin Spacey, Gabriel Byrne
+33/Seppuku/8.501859260263245/Masaki Kobayashi/Tatsuya Nakadai, Akira Ishihama
+34/The Lion King/8.491935500205564/Roger Allers/Matthew Broderick, Jeremy Irons
+35/American History X/8.48520380753959/Tony Kaye/Edward Norton, Edward Furlong
+36/The Pianist/8.485101822091083/Roman Polanski/Adrien Brody, Thomas Kretschmann
+37/Back to the Future/8.484763456249965/Robert Zemeckis/Michael J. Fox, Christopher Lloyd
+38/Terminator 2: Judgment Day/8.484568295851695/James Cameron/Arnold Schwarzenegger, Linda Hamilton
+39/Modern Times/8.483305948433301/Charles Chaplin/Charles Chaplin, Paulette Goddard
+40/Psycho/8.476607722890677/Alfred Hitchcock/Anthony Perkins, Janet Leigh
+41/Gladiator/8.475670913524267/Ridley Scott/Russell Crowe, Joaquin Phoenix
+42/City Lights/8.474578628610463/Charles Chaplin/Charles Chaplin, Virginia Cherrill
+43/The Departed/8.471222875191541/Martin Scorsese/Leonardo DiCaprio, Matt Damon
+44/The Intouchables/8.470905375939981/Olivier Nakache/François Cluzet, Omar Sy
+45/Whiplash/8.468163808209558/Damien Chazelle/Miles Teller, J.K. Simmons
+46/The Prestige/8.458221937077488/Christopher Nolan/Christian Bale, Hugh Jackman
+47/Once Upon a Time in the West/8.453110246934909/Sergio Leone/Henry Fonda, Charles Bronson
+48/Hotaru no haka/8.44869745206967/Isao Takahata/Tsutomu Tatsumi, Ayano Shiraishi
+49/Casablanca/8.439230180896983/Michael Curtiz/Humphrey Bogart, Ingrid Bergman
+50/Nuovo Cinema Paradiso/8.428268793017567/Giuseppe Tornatore/Philippe Noiret, Enzo Cannavale
+51/Rear Window/8.428208906284144/Alfred Hitchcock/James Stewart, Grace Kelly
+52/Joker/8.424103258420722/Todd Phillips/Joaquin Phoenix, Robert De Niro
+53/Alien/8.422938600240588/Ridley Scott/Sigourney Weaver, Tom Skerritt
+54/Apocalypse Now/8.420197066953284/Francis Ford Coppola/Martin Sheen, Marlon Brando
+55/Memento/8.416294344731979/Christopher Nolan/Guy Pearce, Carrie-Anne Moss
+56/Raiders of the Lost Ark/8.415141779917098/Steven Spielberg/Harrison Ford, Karen Allen
+57/The Great Dictator/8.41235973640327/Charles Chaplin/Charles Chaplin, Paulette Goddard
+58/The Lives of Others/8.392133976271397/Florian Henckel von Donnersmarck/Ulrich Mühe, Martina Gedeck
+59/Django Unchained/8.389231265910759/Quentin Tarantino/Jamie Foxx, Christoph Waltz
+60/Paths of Glory/8.375124487038082/Stanley Kubrick/Kirk Douglas, Ralph Meeker
+61/The Shining/8.371012973672919/Stanley Kubrick/Jack Nicholson, Shelley Duvall
+62/Avengers: Infinity War/8.368875024544865/Anthony Russo/Robert Downey Jr., Chris Hemsworth
+63/WALL·E/8.367398330972884/Andrew Stanton/Ben Burtt, Elissa Knight
+64/Sunset Blvd/8.361017691071904/Billy Wilder/William Holden, Gloria Swanson
+65/Spider-Man: Into the Spider-Verse/8.355208498781236/Bob Persichetti/Shameik Moore, Jake Johnson
+66/Mononoke-hime/8.354663853080044/Hayao Miyazaki/Yôji Matsuda, Yuriko Ishida
+67/Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb/8.353860268532717/Stanley Kubrick/Peter Sellers, George C. Scott
+68/Oldeuboi/8.351690675287081/Chan-wook Park/Min-sik Choi, Ji-Tae Yoo
+69/Witness for the Prosecution/8.35060177357075/Billy Wilder/Tyrone Power, Marlene Dietrich
+70/Avengers: Endgame/8.336484988353453/Anthony Russo/Robert Downey Jr., Chris Evans
+71/The Dark Knight Rises/8.334977147709594/Christopher Nolan/Christian Bale, Tom Hardy
+72/Once Upon a Time in America/8.332437707147754/Sergio Leone/Robert De Niro, James Woods
+73/Aliens/8.32520454645054/James Cameron/Sigourney Weaver, Michael Biehn
+74/Neoui Ileum-eun/8.319312177720514/Makoto Shinkai/Ryûnosuke Kamiki, Mone Kamishiraishi
+75/Anand/8.31462198775146/Hrishikesh Mukherjee/Rajesh Khanna, Amitabh Bachchan
+76/Coco/8.314232022587712/Lee Unkrich/Anthony Gonzalez, Gael García Bernal
+77/American Beauty/8.310384118372314/Sam Mendes/Kevin Spacey, Annette Bening
+78/Braveheart/8.304189634690989/Mel Gibson/Mel Gibson, Sophie Marceau
+79/Das Boot/8.300839362368205/Wolfgang Petersen/Jürgen Prochnow, Herbert Grönemeyer
+80/3 Idiots/8.298531504213765/Rajkumar Hirani/Aamir Khan, Madhavan
+81/Toy Story/8.294586983613259/John Lasseter/Tom Hanks, Tim Allen
+82/Tengoku to jigoku/8.293936316902272/Akira Kurosawa/Toshirô Mifune, Yutaka Sada
+83/Taare Zameen Par/8.290773636403875/Aamir Khan/Darsheel Safary, Aamir Khan
+84/Amadeus/8.289052518890799/Milos Forman/F. Murray Abraham, Tom Hulce
+85/Star Wars: Episode VI - Return of the Jedi/8.288748914845787/Richard Marquand/Mark Hamill, Harrison Ford
+86/1917/8.287232015412721/Sam Mendes/Dean-Charles Chapman, George MacKay
+87/Reservoir Dogs/8.284549188764387/Quentin Tarantino/Harvey Keitel, Tim Roth
+88/Inglourious Basterds/8.281716005254511/Quentin Tarantino/Brad Pitt, Diane Kruger
+89/Good Will Hunting/8.27793587559022/Gus Van Sant/Robin Williams, Matt Damon
+90/2001: A Space Odyssey/8.27269529622772/Stanley Kubrick/Keir Dullea, Gary Lockwood
+91/Hyeonghijeung/8.269948045342536/Alfred Hitchcock/James Stewart, Kim Novak
+92/Requiem for a Dream/8.269158989425394/Darren Aronofsky/Ellen Burstyn, Jared Leto
+93/M - Eine Stadt sucht einen Mörder/8.267262959457796/Fritz Lang/Peter Lorre, Ellen Widmann
+94/Dangal/8.264587806625347/Nitesh Tiwari/Aamir Khan, Sakshi Tanwar
+95/Capharnaüm/8.261174363145397/Nadine Labaki/Zain Al Rafeea, Yordanos Shiferaw
+96/Eternal Sunshine of the Spotless Mind/8.260175557657806/Michel Gondry/Jim Carrey, Kate Winslet
+97/Citizen Kane/8.258725453080574/Orson Welles/Orson Welles, Joseph Cotten
+98/Jagten/8.257700260578517/Thomas Vinterberg/Mads Mikkelsen, Thomas Bo Larsen
+99/Metal jaket/8.251732937508443/Stanley Kubrick/Matthew Modine, R. Lee Ermey
+100/North by Northwest/8.24936125125329/Alfred Hitchcock/Cary Grant, Eva Marie Saint
+101/Ladri di biciclette/8.249215481870765/Vittorio De Sica/Lamberto Maggiorani, Enzo Staiola
+102/A Clockwork Orange/8.248749920058394/Stanley Kubrick/Malcolm McDowell, Patrick Magee
+103/The Kid/8.248605367599488/Charles Chaplin/Charles Chaplin, Edna Purviance
+104/Snatch/8.2468113563274/Guy Ritchie/Jason Statham, Brad Pitt
+105/Singin' in the Rain/8.244753134810297/Stanley Donen/Gene Kelly, Donald O'Connor
+106/Scarface/8.24364747554952/Brian De Palma/Al Pacino, Michelle Pfeiffer
+107/Taxi Driver/8.24150241716658/Martin Scorsese/Robert De Niro, Jodie Foster
+108/Amélie/8.237954546155462/Jean-Pierre Jeunet/Audrey Tautou, Mathieu Kassovitz
+109/Lawrence of Arabia/8.23687236215598/David Lean/Peter O'Toole, Alec Guinness
+110/The Sting/8.23540453819328/George Roy Hill/Paul Newman, Robert Redford
+111/Toy Story 3/8.235207906710736/Lee Unkrich/Tom Hanks, Tim Allen
+112/Ikiru/8.231896703744429/Akira Kurosawa/Takashi Shimura, Nobuo Kaneko
+113/Metropolis/8.231610218871463/Fritz Lang/Brigitte Helm, Alfred Abel
+114/Per qualche dollaro in più/8.2297675331214/Sergio Leone/Clint Eastwood, Lee Van Cleef
+115/Jodaeiye Nader az Simin/8.229548398470762/Asghar Farhadi/Payman Maadi, Leila Hatami
+116/Double Indemnity/8.223117288698093/Billy Wilder/Fred MacMurray, Barbara Stanwyck
+117/The Apartment/8.221646555958088/Billy Wilder/Jack Lemmon, Shirley MacLaine
+118/Incendies/8.220209545364149/Denis Villeneuve/Lubna Azabal, Mélissa Désormeaux-Poulin
+119/To Kill a Mockingbird/8.218057549037255/Robert Mulligan/Gregory Peck, John Megna
+120/Indiana Jones and the Last Crusade/8.212814182801656/Steven Spielberg/Harrison Ford, Sean Connery
+121/Up/8.211142230442055/Pete Docter/Edward Asner, Jordan Nagai
+122/LA Confidential/8.204836902546365/Curtis Hanson/Kevin Spacey, Russell Crowe
+123/Heat/8.20167687954636/Michael Mann/Al Pacino, Robert De Niro
+124/Monty Python and the Holy Grail/8.200404078230246/Terry Gilliam/Graham Chapman, John Cleese
+125/Die Hard/8.194838969862385/John McTiernan/Bruce Willis, Alan Rickman
+126/Rashômon/8.194548301283346/Akira Kurosawa/Toshirô Mifune, Machiko Kyô
+127/Yôjinbô/8.192766691850597/Akira Kurosawa/Toshirô Mifune, Eijirô Tôno
+128/Idi i smotri/8.191351529898094/Elem Klimov/Aleksey Kravchenko, Olga Mironova
+129/Batman Begins/8.190970696569176/Christopher Nolan/Christian Bale, Michael Caine
+130/Bacheha-Ye aseman/8.18705616634033/Majid Majidi/Mohammad Amir Naji, Amir Farrokh Hashemian
+131/Green Book/8.186657260648499/Peter Farrelly/Viggo Mortensen, Mahershala Ali
+132/Der Untergang/8.18600110353075/Oliver Hirschbiegel/Bruno Ganz, Alexandra Maria Lara
+133/Unforgiven/8.18438778882732/Clint Eastwood/Clint Eastwood, Gene Hackman
+134/Some Like It Hot/8.176817762416237/Billy Wilder/Marilyn Monroe, Tony Curtis
+135/Ran/8.172154251345553/Akira Kurosawa/Tatsuya Nakadai, Akira Terao
+136/Howlui umjikineun seong/8.17044219637519/Hayao Miyazaki/Chieko Baishô, Takuya Kimura
+137/The Great Escape/8.16362243701927/John Sturges/Steve McQueen, James Garner
+138/Eveeui Modeun Gut/8.162398122484493/Joseph L. Mankiewicz/Bette Davis, Anne Baxter
+139/A Beautiful Mind/8.16162000107673/Ron Howard/Russell Crowe, Ed Harris
+140/Casino/8.159960527585552/Martin Scorsese/Robert De Niro, Sharon Stone
+141/Pan's Labyrinth/8.155890767100216/Guillermo del Toro/Ivana Baquero, Ariadna Gil
+142/El Sikeuleto: Bimil-ui Nundongja/8.152566060840426/Juan José Campanella/Ricardo Darín, Soledad Villamil
+143/Tonari no Totoro/8.152079509970498/Hayao Miyazaki/Hitoshi Takagi, Noriko Hidaka
+144/The Wolf of Wall Street/8.151294567886966/Martin Scorsese/Leonardo DiCaprio, Jonah Hill
+145/Lock, Stock and Two Smoking Barrels/8.150701222189616/Guy Ritchie/Jason Flemyng, Dexter Fletcher
+146/Raging Bull/8.15054032521446/Martin Scorsese/Robert De Niro, Cathy Moriarty
+147/Judgment at Nuremberg/8.141245437385138/Stanley Kramer/Spencer Tracy, Burt Lancaster
+148/The Treasure of the Sierra Madre/8.14114715631603/John Huston/Humphrey Bogart, Walter Huston
+149/There Will Be Blood/8.139920383435655/Paul Thomas Anderson/Daniel Day-Lewis, Paul Dano
+150/Babam ve Oglum/8.136225721078974/Çagan Irmak/Çetin Tekindor, Fikret Kuskan
+151/Three Billboards Outside Ebbing, Missouri/8.134014900680414/Martin McDonagh/Frances McDormand, Woody Harrelson
+152/The Gold Rush/8.13225085624229/Charles Chaplin/Charles Chaplin, Mack Swain
+153/Dial M for Murder/8.131771508217719/Alfred Hitchcock/Ray Milland, Grace Kelly
+154/Chinatown/8.131626594044844/Roman Polanski/Jack Nicholson, Faye Dunaway
+155/Det sjunde inseglet/8.125314757200302/Ingmar Bergman/Max von Sydow, Gunnar Björnstrand
+156/V for Vendetta/8.125269567535272/James McTeigue/Hugo Weaving, Natalie Portman
+157/No Country for Old Men/8.12403940326677/Ethan Coen/Tommy Lee Jones, Javier Bardem
+158/Inside Out/8.123076368020007/Pete Docter/Amy Poehler, Bill Hader
+159/Warrior/8.12141461480488/Gavin O'Connor/Tom Hardy, Nick Nolte
+160/Shutter Island/8.121215339674558/Martin Scorsese/Leonardo DiCaprio, Emily Mortimer
+161/The Elephant Man/8.117245099550464/David Lynch/Anthony Hopkins, John Hurt
+162/Trainspotting/8.117074683007292/Danny Boyle/Ewan McGregor, Ewen Bremner
+163/The Sixth Sense/8.114631803199364/M. Night Shyamalan/Bruce Willis, Haley Joel Osment
+164/The Thing/8.11357543608676/John Carpenter/Kurt Russell, Wilford Brimley
+165/Gone with the Wind/8.108206791454649/Victor Fleming/Clark Gable, Vivien Leigh
+166/Jyuragi gongwon/8.108070504572662/Steven Spielberg/Sam Neill, Laura Dern
+167/Room/8.1076359861786/Lenny Abrahamson/Brie Larson, Jacob Tremblay
+168/Smultronstället/8.106242524451892/Ingmar Bergman/Victor Sjöström, Bibi Andersson
+169/Blade Runner/8.105637528461951/Ridley Scott/Harrison Ford, Rutger Hauer
+170/Finding Nemo/8.103829019231908/Andrew Stanton/Albert Brooks, Ellen DeGeneres
+171/The Bridge on the River Kwai/8.103740752230491/David Lean/William Holden, Alec Guinness
+172/Stalker/8.101339469078766/Andrei Tarkovsky/Alisa Freyndlikh, Aleksandr Kaydanovskiy
+173/On the Waterfront/8.100026161023845/Elia Kazan/Marlon Brando, Karl Malden
+174/The Third Man/8.09989751732824/Carol Reed/Orson Welles, Joseph Cotten
+175/The Truman Show/8.099823046183774/Peter Weir/Jim Carrey, Ed Harris
+176/Kill Bill: Vol 1/8.099507854066923/Quentin Tarantino/Uma Thurman, David Carradine
+177/Fargo/8.099245879260767/Joel Coen/William H. Macy, Frances McDormand
+178/Gran Torino/8.096885772790843/Clint Eastwood/Clint Eastwood, Bee Vang
+179/Tôkyô monogatari/8.095566283596213/Yasujirô Ozu/Chishû Ryû, Chieko Higashiyama
+180/Salinui chueok/8.093911758157901/Bong Joon Ho/Kang-ho Song, Sang-kyung Kim
+181/The Deer Hunter/8.09387594264523/Michael Cimino/Robert De Niro, Christopher Walken
+182/Waildeu Teiljeu: Cham-eul Su Eobsneun Sungan/8.091005862419768/Damián Szifron/Darío Grandinetti, María Marull
+183/Klaus/8.090496871139514/Sergio Pablos/Jason Schwartzman, J.K. Simmons
+184/Eskiya/8.088142544476954/Yavuz Turgul/Sener Sen, Ugur Yücel
+185/Andhadhun/8.08762929413119/Sriram Raghavan/Ayushmann Khurrana, Tabu
+186/Mary and Max/8.085797251869955/Adam Elliot/Toni Collette, Philip Seymour Hoffman
+187/The Big Lebowski/8.085612872607522/Joel Coen/Jeff Bridges, John Goodman
+188/In the Name of the Father/8.08468817549094/Jim Sheridan/Daniel Day-Lewis, Pete Postlethwaite
+189/Gone Girl/8.082064553290419/David Fincher/Ben Affleck, Rosamund Pike
+190/Hacksaw Ridge/8.080821043838684/Mel Gibson/Andrew Garfield, Sam Worthington
+191/The Grand Budapest Hotel/8.079157220046737/Wes Anderson/Ralph Fiennes, F. Murray Abraham
+192/To Be or Not to Be/8.07656819009589/Ernst Lubitsch/Carole Lombard, Jack Benny
+193/Persona/8.076419295517802/Ingmar Bergman/Bibi Andersson, Liv Ullmann
+194/Ford v Ferrari/8.075227785983882/James Mangold/Matt Damon, Christian Bale
+195/Before Sunrise/8.074844317492422/Richard Linklater/Ethan Hawke, Julie Delpy
+196/Catch Me If You Can/8.074515324467336/Steven Spielberg/Leonardo DiCaprio, Tom Hanks
+197/The General/8.073747983096194/Clyde Bruckman/Buster Keaton, Marion Mack
+198/How to Train Your Dragon/8.07314007251538/Dean DeBlois/Jay Baruchel, Gerard Butler
+199/Mr Smith Goes to Washington/8.072652523465583/Frank Capra/James Stewart, Jean Arthur
+200/Sherlock Jr/8.069742711506409/Buster Keaton/Buster Keaton, Kathryn McGuire
+201/Prisoners/8.06847089575568/Denis Villeneuve/Hugh Jackman, Jake Gyllenhaal
+202/12 Years a Slave/8.06308940732625/Steve McQueen/Chiwetel Ejiofor, Michael Kenneth Williams
+203/Mad Max: Fury Road/8.05954350682604/George Miller/Tom Hardy, Charlize Theron
+204/Cool Hand Luke/8.059507578432013/Stuart Rosenberg/Paul Newman, George Kennedy
+205/Barry Lyndon/8.059056442851977/Stanley Kubrick/Ryan O'Neal, Marisa Berenson
+206/Le salaire de la peur/8.058538553987693/Henri-Georges Clouzot/Yves Montand, Charles Vanel
+207/Network/8.058359285402465/Sidney Lumet/Faye Dunaway, William Holden
+208/Stand by Me/8.057924319302616/Rob Reiner/Wil Wheaton, River Phoenix
+209/Into the Wild/8.056216932570806/Sean Penn/Emile Hirsch, Vince Vaughn
+210/Million Dollar Baby/8.05506340986786/Clint Eastwood/Hilary Swank, Clint Eastwood
+211/Life of Brian/8.053241117121656/Terry Jones/Graham Chapman, John Cleese
+212/Hachi: A Dog's Tale/8.053089736939262/Lasse Hallström/Richard Gere, Joan Allen
+213/Ben-Hur/8.052618230627283/William Wyler/Charlton Heston, Jack Hawkins
+214/Platoon/8.052226617476709/Oliver Stone/Charlie Sheen, Tom Berenger
+215/Rush/8.050762117003893/Ron Howard/Daniel Brühl, Chris Hemsworth
+216/Logan/8.04959115504728/James Mangold/Hugh Jackman, Patrick Stewart
+217/Dead Poets Society/8.049362307052977/Peter Weir/Robin Williams, Robert Sean Leonard
+218/La passion de Jeanne d'Arc/8.049271946341879/Carl Theodor Dreyer/Maria Falconetti, Eugene Silvain
+219/Haeri Poteowa jugeumui seongmul - 2bu/8.049051662728429/David Yates/Daniel Radcliffe, Emma Watson
+220/Andrei Rublev/8.046641827789013/Andrei Tarkovsky/Anatoliy Solonitsyn, Ivan Lapikov
+221/Les quatre cents coups/8.045437002572665/François Truffaut/Jean-Pierre Léaud, Albert Rémy
+222/Hotel Rwanda/8.04311538464382/Terry George/Don Cheadle, Sophie Okonedo
+223/Amores perros/8.04208214244885/Alejandro G. Iñárritu/Emilio Echevarría, Gael García Bernal
+224/Ahgassi/8.041289298335702/Chan-wook Park/Min-hee Kim, Jung-woo Ha
+225/Spotlight/8.040784659040783/Tom McCarthy/Mark Ruffalo, Michael Keaton
+226/Rang De Basanti/8.040483222963493/Rakeysh Omprakash Mehra/Aamir Khan, Soha Ali Khan
+227/Kaze no tani no Naushika/8.040070459676352/Hayao Miyazaki/Sumi Shimamoto, Mahito Tsujimura
+228/Rocky/8.034645811559132/John G. Avildsen/Sylvester Stallone, Talia Shire
+229/Rebecca/8.033451602896065/Alfred Hitchcock/Laurence Olivier, Joan Fontaine
+230/Portrait de la jeune fille en feu/8.031848223377915/Céline Sciamma/Noémie Merlant, Adèle Haenel
+231/Monsters, Inc/8.031126739025485/Pete Docter/Billy Crystal, John Goodman
+232/La haine/8.030192503765868/Mathieu Kassovitz/Vincent Cassel, Hubert Koundé
+233/It Happened One Night/8.02260848834069/Frank Capra/Clark Gable, Claudette Colbert
+234/Gangs of Wasseypur/8.018743447186148/Anurag Kashyap/Manoj Bajpayee, Richa Chadha
+235/Faa yeung nin wa/8.016972276652316/Kar-Wai Wong/Tony Chiu-Wai Leung, Maggie Cheung
+236/Before Sunset/8.015544389822129/Richard Linklater/Ethan Hawke, Julie Delpy
+237/Paris, Texas/8.013259690300563/Wim Wenders/Harry Dean Stanton, Nastassja Kinski
+238/The Help/8.013020731410913/Tate Taylor/Emma Stone, Viola Davis
+239/The Princess Bride/8.012987275586699/Rob Reiner/Cary Elwes, Mandy Patinkin
+240/Contratiempo/8.012514731389777/Oriol Paulo/Mario Casas, Ana Wagener
+241/Drishyam/8.010954830644975/Nishikant Kamat/Ajay Devgn, Shriya Saran
+242/The Terminator/8.009131761314462/James Cameron/Arnold Schwarzenegger, Linda Hamilton
+243/Kis Uykusu/8.007741757516174/Nuri Bilge Ceylan/Haluk Bilginer, Melisa Sözen
+244/Ace in the Hole/8.007090046953328/Billy Wilder/Kirk Douglas, Jan Sterling
+245/Butch Cassidy and the Sundance Kid/8.006521796347062/George Roy Hill/Paul Newman, Robert Redford
+246/Lagaan: Once Upon a Time in India/8.006225564715463/Ashutosh Gowariker/Aamir Khan, Raghuvir Yadav
+247/Fanny och Alexander/8.006075850972648/Ingmar Bergman/Bertil Guve, Pernilla Allwin
+248/Aladdin/8.005974468399037/Ron Clements/Scott Weinger, Robin Williams
+249/Trois couleurs: Rouge/8.005846658946995/Krzysztof Kieslowski/Irène Jacob, Jean-Louis Trintignant
+250/Chak De! India/8.00583732725279/Shimit Amin/Shah Rukh Khan, Vidya Malvade

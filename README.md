@@ -1,2 +1,2 @@
 # jihyun_archive
-Jihyun's Code Archive Repository
+Jihyun's Programming Code Archive Repository

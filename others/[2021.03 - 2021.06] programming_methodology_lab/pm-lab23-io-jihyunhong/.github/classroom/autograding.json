@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "",
+      "run": "cd exercise && g++ --std=c++14 -o movie_nolan movie_nolan.cpp && ./movie_nolan && cmp -s \"answer.txt\" \"nolan.txt\" && echo \"Hooray\"",
+      "input": "",
+      "output": "Hooray",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "",
+      "run": "cd exercise && make all && ./appTests",
+      "input": "",
+      "output": "All tests passed (11 assertions in 4 test cases)",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 10
+    }
+  ]
+}

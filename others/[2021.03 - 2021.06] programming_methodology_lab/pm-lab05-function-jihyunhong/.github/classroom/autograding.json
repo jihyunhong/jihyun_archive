@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "test1",
+      "setup": "",
+      "run": "cd exercise && make one && ./rectangle",
+      "input": "35 49",
+      "output": "1715",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "test2",
+      "setup": "",
+      "run": "cd exercise && make two && ./elipse",
+      "input": "3.23 7.47",
+      "output": "18.950",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 3
+    },
+    {
+      "name": "test3",
+      "setup": "",
+      "run": "cd exercise && make three && ./exchange",
+      "input": "174",
+      "output": "[\\s\\S]*4[\\s\\S]*0[\\s\\S]*1[\\s\\S]*3[\\s\\S]*1[\\s\\S]*3[\\s\\S]*",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": 4
+    }
+  ]
+}

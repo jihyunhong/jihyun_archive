@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test_class",
+      "setup": "",
+      "run": "cd exercise && make clean && make all && ./Circle",
+      "input": "5\r\n5\r\n5\r\n3\r\n7",
+      "output": "Write the ID of the 1st circle : Write the Radius of the 1st circle : \r\nWrite the ID of the 2nd circle : Error : The ID is the same as the ID of the 1st circle\r\nWrite the ID of the 2nd circle again: Write the Radius of the 2nd circle : \r\nArea of circle 5 is 78.5\r\nArea of circle 3 is 153.86\r\nCircle 3 is bigger than Circle 5",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}

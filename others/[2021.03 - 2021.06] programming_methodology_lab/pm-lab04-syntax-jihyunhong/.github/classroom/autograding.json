@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Gaussian_test",
+      "setup": "",
+      "run": "cd 2 && make clean && make all && ./Gaussian_Addition_exe",
+      "input": "5",
+      "output": "n = result = 15",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}

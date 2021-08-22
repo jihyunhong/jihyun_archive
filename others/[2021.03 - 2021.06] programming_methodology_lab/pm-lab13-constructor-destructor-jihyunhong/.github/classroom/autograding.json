@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "one",
+      "setup": "cd exercise; make one",
+      "run": "cd exercise; ./one",
+      "input": "3\r\n17\r\n93\r\n159\r\n3\r\n1121\r\n2093\r\n3725\r\n",
+      "output": "[\\s\\S]*Create queue1[\\s\\S]*[Q|q]ueue[\\s\\S]*[D|d]efault[\\s\\S]*Create queue2[\\s\\S]*[P|p]arameter[\\s\\S]*Create stack1[\\s\\S]*[S|s]tack[\\s\\S]*[D|d]efault[\\s\\S]*Create stack2[\\s\\S]*[P|p]arameter[\\s\\S]*End of[\\s\\S]*3725 2093 1121[\\s\\S]*[D|d]estructor[\\s\\S]*4 3 2 1 0[\\s\\S]*[D|d]estructor[\\s\\S]*17 93 159[\\s\\S]*[D|d]estructor[\\s\\S]*0 1 2 3 4[\\s\\S]*[D|d]estructor[\\s\\S]*",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "two",
+      "setup": "cd exercise; make two",
+      "run": "cd exercise; ./two",
+      "input": "",
+      "output": "[\\s\\S]*Hi[\\s\\S]*\\![\\s\\S]*[H|h]appy [B|b]irthday[\\s\\S]*[T|t]hank[\\s\\S]*\\!",
+      "comparison": "regex",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}

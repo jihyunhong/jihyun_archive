@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "quotient",
+      "setup": "cd exercise; g++ -o quotient quotient.cpp",
+      "run": "./exercise/quotient",
+      "input": "15 3",
+      "output": "5",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sum1",
+      "setup": "cd exercise; g++ -o sum sum.cpp",
+      "run": "./exercise/sum",
+      "input": "3 5",
+      "output": "8",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "sum2",
+      "setup": "cd exercise; g++ -o sum sum.cpp",
+      "run": "./exercise/sum",
+      "input": "1820 2739",
+      "output": "4559",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
